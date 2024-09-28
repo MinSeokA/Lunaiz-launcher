@@ -1,13 +1,13 @@
 {
-  "name": "mrslauncher",
-  "version": "3.0.3",
-  "productName": "MRS Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/), peunsu (https://github.com/peunsu)",
+  "name": "Lunaiz-Launcher",
+  "version": "1.0.0",
+  "productName": "Lunaiz-Launcher",
+  "description": "Lunaiz-Launcher",
+  "author": "MinSeok_P",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/peunsu/MRSLauncher",
+  "homepage": "https://github.com/MinSeokA/Lunaiz-launcher",
   "bugs": {
-    "url": "https://github.com/peunsu/MRSLauncher/issues"
+    "url": "https://github.com/MinSeokA/Lunaiz-launcher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -43,9 +43,5 @@
     "electron": "^30.0.1",
     "electron-builder": "^24.13.3",
     "eslint": "^8.57.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/peunsu/MRSLauncher.git"
   }
 }
